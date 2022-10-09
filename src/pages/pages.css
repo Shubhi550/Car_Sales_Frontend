@@ -1,0 +1,62 @@
+.boxes {
+	width: 99%;
+    height: 100%;
+	justify-content: center;
+    text-align: center;
+	margin: 8px 10px;
+	display: inline-block;
+}
+
+.boxes1 {
+        width: 48%;
+        justify-content: center;
+        text-align: center;
+        margin: 8px;
+        display: inline-block;
+        background-color: rgb(241, 247, 247);
+}
+
+.boxes2 {
+        width: 48%;
+        justify-content: center;
+        text-align: center;
+        margin: 8px;
+        display: inline-block;
+        background-color: rgb(241, 247, 247);
+}
+
+.container_1{
+    display: inline-block;
+    background-color: rgb(241, 247, 247);
+    width: 45%;
+    height: 30%;
+    text-align: center;
+}
+
+.container_2{
+    display: inline-block;
+    background-color: rgb(241, 247, 247);
+    width: 45%;
+    text-align: center;
+}
+
+.nav_details{
+	text-align: left;
+    color: black;
+    font-size: larger;
+}
+
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
